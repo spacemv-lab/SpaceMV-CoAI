@@ -24,7 +24,7 @@
 SpaceMV-CoAI 将助力企业战略转换与运营规划、体系构建与效率提升、组织协同与团队赋能等方面实现智能化转型：
 
 *   **一是内容生产及运维工具**：企业官网、自媒体等内容生产、审核、发布、监测（流量监测/防篡改等安全监测）、统计、分析（诊断）、反馈（质量/绩效评价）一站式服务。
-*   **二是产业星球**：接入SpaceMV-ScAI（由成都天巡微小卫星科技有限责任公司研发的面向 Agent 架构的开源星座智能管理平台，GitHub地址：https://github.com/tianxunweixiao/SpaceMV-ScAI ）对重点产业园区过境预报、覆盖性分析等的一键发布。
+*   **二是产业星球**：接入SpaceMV-ScAI（由成都天巡微小卫星科技有限责任公司研发的面向 Agent 架构的开源星座智能管理平台，GitHub地址：https://github.com/spacemv-lab/SpaceMV-ScAI ）对重点产业园区过境预报、覆盖性分析等的一键发布。
 *   **三是产业仪表盘**：通常指用于监测和分析特定产业或行业运行状况的可视化工具，包括不限于特定行业仪表盘、经营仪表盘、供应链仪表盘、跨行业关联仪表盘等。通过整合关键数据指标，支持用户自定义图表组合，进行数据对比、相关性分析与历史回测，辅助投资及经营决策。
 *   **四是交互式产业地图**：结合地理信息系统（GIS）、时空大数据和交互技术的数字化工具，通过整合实时数据，如企业分布、产业规模、创新资源等，将传统静态地图升级为动态“实景图”，支持用户按产业类别、区域或功能定位多维检索，精准查询产业布局，辅助制定产业政策、优化空间布局，引导资源集聚；覆盖规划、政策、园区、企业、人力资源等多类数据，构建全域产业“一张图”，帮助用户跨区域对比产业结构与资源禀赋，助力企业精准选址、拓展市场，降低投资风险；支持用户自主操作，如缩放、切换图层、关联查询等，集成政策查询、资源对接等功能，提供实时产业信息。
 
@@ -129,9 +129,9 @@ SpaceMV-CoAI-Wp/Wc 的发布只是一个开始，我们已经规划了清晰的�
 ## 6 开源地址
 SpaceMV-CoAI 遵循 MIT 开源协议，欢迎相关领域的开发者与研究人员关注、使用及贡献代码。
 
-*   **SpaceMV-CoAI 仓库(SpaceMV-CoAI)**: [https://github.com/tianxunweixiao/SpaceMV-CoAI](https://github.com/tianxunweixiao/SpaceMV-CoAI)
-*   **SpaceMV-CoAI-Wp/Wc 后端仓库(SpaceMV-CoAI-Wp/Wc-Backend)**: [https://github.com/tianxunweixiao/SpaceMV-CoAI-WpWc-Backend](https://github.com/tianxunweixiao/SpaceMV-CoAI-WpWc-Backend)
+*   **SpaceMV-CoAI 仓库(SpaceMV-CoAI)**: [https://github.com/spacemv-lab/SpaceMV-CoAI](https://github.com/spacemv-lab/SpaceMV-CoAI)
+*   **SpaceMV-CoAI-Wp/Wc 后端仓库(SpaceMV-CoAI-Wp/Wc-Backend)**: [https://github.com/spacemv-lab/SpaceMV-CoAI-WpWc-Backend](https://github.com/spacemv-lab/SpaceMV-CoAI-WpWc-Backend)
 此仓库为SpaceMV-CoAI-Wp/Wc前端、SpaceMV-CoAI-Wp（企业官网）PC端、SpaceMV-CoAI-Wp（企业官网）移动端共用后端仓库。
-*   **SpaceMV-CoAI-Wp/Wc 前端仓库(SpaceMV-CoAI-Wp/Wc-Frontend)**: [https://github.com/tianxunweixiao/SpaceMV-CoAI-WpWc-Frontend](https://github.com/tianxunweixiao/SpaceMV-CoAI-WpWc-Frontend)
-*   **SpaceMV-CoAI-Wp（企业官网）PC 端仓库(SpaceMV-CoAI-Wp-PC)**: [https://github.com/tianxunweixiao/SpaceMV-CoAI-Wp-PC-Frontend](https://github.com/tianxunweixiao/SpaceMV-CoAI-Wp-PC-Frontend)
-*   **SpaceMV-CoAI-Wp（企业官网）移动端仓库(SpaceMV-CoAI-Wp-Mobile)**: [https://github.com/tianxunweixiao/SpaceMV-CoAI-Wp-Mobile-Frontend](https://github.com/tianxunweixiao/SpaceMV-CoAI-Wp-Mobile-Frontend)
+*   **SpaceMV-CoAI-Wp/Wc 前端仓库(SpaceMV-CoAI-Wp/Wc-Frontend)**: [https://github.com/spacemv-lab/SpaceMV-CoAI-WpWc-Frontend](https://github.com/spacemv-lab/SpaceMV-CoAI-WpWc-Frontend)
+*   **SpaceMV-CoAI-Wp（企业官网）PC 端仓库(SpaceMV-CoAI-Wp-PC)**: [https://github.com/spacemv-lab/SpaceMV-CoAI-Wp-PC-Frontend](https://github.com/spacemv-lab/SpaceMV-CoAI-Wp-PC-Frontend)
+*   **SpaceMV-CoAI-Wp（企业官网）移动端仓库(SpaceMV-CoAI-Wp-Mobile)**: [https://github.com/spacemv-lab/SpaceMV-CoAI-Wp-Mobile-Frontend](https://github.com/spacemv-lab/SpaceMV-CoAI-Wp-Mobile-Frontend)
